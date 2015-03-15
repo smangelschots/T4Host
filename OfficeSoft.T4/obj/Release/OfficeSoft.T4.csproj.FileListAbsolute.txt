@@ -1,0 +1,14 @@
+C:\Projects\Constructor\OfficeSoft.T4\bin\Release\OfficeSoft.T4.dll
+C:\Projects\Constructor\OfficeSoft.T4\bin\Release\OfficeSoft.T4.pdb
+C:\Projects\Constructor\OfficeSoft.T4\bin\Release\OfficeSoft.VisualStudio.dll
+C:\Projects\Constructor\OfficeSoft.T4\bin\Release\OfficeSoft.Logging.dll
+C:\Projects\Constructor\OfficeSoft.T4\bin\Release\OfficeSoft.VisualStudio.pdb
+C:\Projects\Constructor\OfficeSoft.T4\bin\Release\OfficeSoft.Logging.pdb
+C:\Projects\Constructor\OfficeSoft.T4\obj\Release\OfficeSoft.T4.csprojResolveAssemblyReference.cache
+C:\Projects\Constructor\OfficeSoft.T4\obj\Release\OfficeSoft.T4.dll
+C:\Projects\Constructor\OfficeSoft.T4\obj\Release\OfficeSoft.T4.pdb
+C:\Projects\OSOFT\OfficeSoft.T4\bin\Release\OfficeSoft.T4.dll
+C:\Projects\OSOFT\OfficeSoft.T4\bin\Release\OfficeSoft.T4.pdb
+C:\Projects\OSOFT\OfficeSoft.T4\obj\Release\OfficeSoft.T4.csprojResolveAssemblyReference.cache
+C:\Projects\OSOFT\OfficeSoft.T4\obj\Release\OfficeSoft.T4.dll
+C:\Projects\OSOFT\OfficeSoft.T4\obj\Release\OfficeSoft.T4.pdb
