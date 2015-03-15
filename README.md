@@ -9,6 +9,8 @@ https://www.nuget.org/packages/T4Host/
 
 ## Features
 
+- Render T4 templates in C#
+
 ## Docs & Community
 
 ## Quick Start
