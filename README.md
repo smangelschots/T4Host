@@ -54,3 +54,7 @@ if you want to add assemblies use
 Have fun T4'ing
 
 
+If you would like to add your output files to your Visual studio project, take al look at https://github.com/smangelschots/ProjectVs
+
+
+
