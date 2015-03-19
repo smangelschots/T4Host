@@ -13,6 +13,8 @@ https://www.nuget.org/packages/T4Host/
 
 ## Docs & Community
 
+* [Website and Documentation](http://devthings.net/)
+
 ## Quick Start
 
 
