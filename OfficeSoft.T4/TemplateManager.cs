@@ -89,9 +89,10 @@ namespace OfficeSoft.T4
 
                 if (!File.Exists(outputFileName) || overwrite)
                 {
-                    File.SetAttributes(outputFileName, FileAttributes.Normal);
+                    if (File.Exists(outputFileName))
+                        File.SetAttributes(outputFileName, FileAttributes.Normal);
                     File.WriteAllText(outputFileName, output, _host.FileEncoding);
-    
+
                 }
 
 
