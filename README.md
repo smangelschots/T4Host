@@ -50,6 +50,14 @@ if you want to add assemblies use
   template.RenderTemplateToFile(@"C:\Temp\hello.html",true,AssembliesFileList);
 ```
 
+if you get the error
+"There was a problem getting an AppDomain to run the transformation from the host"
+Look in the C:\Windows\Microsoft.NET\assembly\GAC_MSIL what version is in there for 
+  Microsoft.VisualStudio.TextTemplating.*.0 
+  and
+  Microsoft.VisualStudio.TextTemplating.Interfaces.*.0
+  
+  or add them to the GAC don't know wy they need to be in the GAC....
 
 Have fun T4'ing
 
