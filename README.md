@@ -1,7 +1,7 @@
 # T4Host
 Start
 
-T4 host lets you render T4 templates using C#
+T4 host lets you render T4 templates using C# without the use of visual studio
 
 ## Installation
 
