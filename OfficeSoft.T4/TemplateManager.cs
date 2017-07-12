@@ -52,6 +52,7 @@ namespace OfficeSoft.T4
             try
             {
 
+
                 Engine engine = new Engine();
                 _host.Session = _session;
 

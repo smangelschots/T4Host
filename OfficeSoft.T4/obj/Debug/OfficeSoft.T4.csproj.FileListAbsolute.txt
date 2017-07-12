@@ -44,3 +44,13 @@ I:\Projects\TS\OfficeSoft\OfficeSoft.T4\bin\Debug\Microsoft.VisualStudio.TextMan
 I:\Projects\TS\OfficeSoft\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.csprojResolveAssemblyReference.cache
 I:\Projects\TS\OfficeSoft\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.dll
 I:\Projects\TS\OfficeSoft\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.pdb
+C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\OfficeSoft.T4.dll
+C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\OfficeSoft.T4.pdb
+C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\envdte.dll
+C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\Microsoft.VisualStudio.TextTemplating.14.0.dll
+C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\stdole.dll
+C:\Projects\Github\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.csprojResolveAssemblyReference.cache
+C:\Projects\Github\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.dll
+C:\Projects\Github\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.pdb
