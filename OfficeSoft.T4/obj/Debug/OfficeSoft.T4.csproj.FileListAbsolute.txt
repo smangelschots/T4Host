@@ -54,3 +54,15 @@ C:\Projects\Github\T4Host\OfficeSoft.T4\bin\Debug\stdole.dll
 C:\Projects\Github\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.csprojResolveAssemblyReference.cache
 C:\Projects\Github\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.dll
 C:\Projects\Github\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.pdb
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\bin\Debug\OfficeSoft.T4.dll
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\bin\Debug\OfficeSoft.T4.pdb
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\bin\Debug\envdte.dll
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\bin\Debug\Microsoft.VisualStudio.TextTemplating.14.0.dll
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\bin\Debug\stdole.dll
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.csproj.CoreCompileInputs.cache
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.csproj.CopyComplete
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.dll
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.pdb
+C:\Documents\GitHub\T4Host\OfficeSoft.T4\obj\Debug\OfficeSoft.T4.csprojAssemblyReference.cache
